@@ -1,0 +1,587 @@
+1
+00:00:02,048 --> 00:00:03,072
+Shortest job first
+
+2
+00:00:03,328 --> 00:00:04,608
+Mr face that
+
+3
+00:00:04,864 --> 00:00:08,960
+Vishal is having Delhi bus time we are going to schedule with Phosphorus cycle shortest
+
+4
+00:00:09,216 --> 00:00:09,728
+First
+
+5
+00:00:10,240 --> 00:00:14,080
+Ok to variation is preemptive and other one is non preemptive
+
+6
+00:00:14,336 --> 00:00:16,384
+And coming to this this one
+
+7
+00:00:16,640 --> 00:00:17,408
+Amazing
+
+8
+00:00:17,920 --> 00:00:22,784
+Which job is chosen it will not stop
+
+9
+00:00:23,040 --> 00:00:24,064
+Interior finishes
+
+10
+00:00:24,320 --> 00:00:25,856
+It is for non preemptive
+
+11
+00:00:26,368 --> 00:00:29,696
+Hindi Prem tourist visa which is also called as
+
+12
+00:00:29,952 --> 00:00:30,464
+Shortest
+
+13
+00:00:33,024 --> 00:00:36,096
+Vishal seat capacity theatre
+
+14
+00:00:36,352 --> 00:00:38,144
+Patna Vishal confirm our self study
+
+15
+00:00:38,400 --> 00:00:39,424
+Prem Ke bhashan
+
+16
+00:00:39,680 --> 00:00:40,704
+What does it means
+
+17
+00:00:40,960 --> 00:00:45,568
+Whenever you choose any process you are going to do anything completion otherwise you are not going to stop
+
+18
+00:00:46,592 --> 00:00:48,640
+How to how to do this
+
+19
+00:00:48,896 --> 00:00:49,664
+1st year
+
+20
+00:00:54,784 --> 00:00:56,320
+First I am going to use
+
+21
+00:00:56,576 --> 00:00:57,344
+Big and short
+
+22
+00:00:57,600 --> 00:00:58,368
+80
+
+23
+00:01:00,928 --> 00:01:04,768
+Arrival time is minimum is not there for no process I should ever 880
+
+24
+00:01:05,024 --> 00:01:06,304
+21 so
+
+25
+00:01:06,560 --> 00:01:10,912
+The first person which will be available will be at time one therefore from zero to one
+
+26
+00:01:12,448 --> 00:01:15,776
+Time one leave only for seven days EP 1
+
+27
+00:01:16,032 --> 00:01:21,408
+I am going to take P1 and run it in computer and it is non preemptive version right
+
+28
+00:01:21,664 --> 00:01:25,760
+How much time does it take for me to complete 7 minutes 21788
+
+29
+00:01:26,272 --> 00:01:27,808
+So now the time is it
+
+30
+00:01:28,064 --> 00:01:34,208
+By the time
+
+31
+00:01:35,744 --> 00:01:37,536
+Pratishat always remember this
+
+32
+00:01:37,792 --> 00:01:40,608
+You are trying to view next one you see that
+
+33
+00:01:40,864 --> 00:01:43,424
+Pick the next available for Salesforce scheduling
+
+34
+00:01:44,704 --> 00:01:49,056
+128 is over there four pic one Sunday available
+
+35
+00:01:49,312 --> 00:01:52,640
+Which one is which one is the best one
+
+36
+00:01:52,896 --> 00:01:54,944
+Kamal this paneer P3
+
+37
+00:01:55,456 --> 00:01:56,736
+Cp1 is over
+
+38
+00:01:56,992 --> 00:02:01,856
+Dekho Delhi Terminal T3 which is having the best time of one paper and take fees in next
+
+39
+00:02:03,136 --> 00:02:07,488
+Bus time of wonderful is going to be running till 9
+
+40
+00:02:09,024 --> 00:02:09,536
+Now
+
+41
+00:02:09,792 --> 00:02:12,608
+P3 is over then what is the next one with the least bus stand
+
+42
+00:02:12,864 --> 00:02:13,632
+Wishes to
+
+43
+00:02:14,144 --> 00:02:14,656
+Jaipur
+
+44
+00:02:15,424 --> 00:02:15,936
+4
+
+45
+00:02:18,240 --> 00:02:21,824
+Which is having a bus time of to there for the completion time is 11
+
+46
+00:02:23,872 --> 00:02:26,944
+Hello everyone is to another is 5
+
+47
+00:02:27,200 --> 00:02:28,480
+I have two forces
+
+48
+00:02:28,992 --> 00:02:32,064
+134 134 have 2 and 5
+
+49
+00:02:32,576 --> 00:02:35,392
+These two which one is having the least bus time
+
+50
+00:02:35,648 --> 00:02:36,416
+We want it
+
+51
+00:02:36,928 --> 00:02:38,976
+Delhi bus time is it
+
+52
+00:02:39,744 --> 00:02:41,024
+I am go to take P2
+
+53
+00:02:42,048 --> 00:02:45,888
+And we whose bus time is 5 then 4 11 + 56
+
+54
+00:02:46,912 --> 00:02:50,752
+Nokia 3 only one is remaining and it is already available at 16
+
+55
+00:02:51,776 --> 00:02:52,800
+FIFA which is it
+
+56
+00:02:54,592 --> 00:02:56,640
+416 + 8 is how much
+
+57
+00:02:56,896 --> 00:02:57,408
+24
+
+58
+00:02:59,968 --> 00:03:03,552
+Shortest shortest job first
+
+59
+00:03:04,064 --> 00:03:05,344
+Germany job
+
+60
+00:03:05,856 --> 00:03:07,136
+The question might be
+
+61
+00:03:07,392 --> 00:03:11,488
+Give any random combination of process with random
+
+62
+00:03:12,000 --> 00:03:13,280
+Possible arrival time
+
+63
+00:03:13,792 --> 00:03:15,072
+Our shortest job
+
+64
+00:03:15,328 --> 00:03:17,632
+Will always scheduling shortest job first
+
+65
+00:03:18,144 --> 00:03:18,912
+It is false
+
+66
+00:03:20,192 --> 00:03:26,336
+Study schedule on the available for psus the shortest job first which means that you are looking outstanding
+
+67
+00:03:26,592 --> 00:03:28,896
+Time one at this point of time one
+
+68
+00:03:29,152 --> 00:03:31,456
+Only for special level C1
+
+69
+00:03:31,712 --> 00:03:35,808
+That is not used but it doesn't mean that even is a shortage of right
+
+70
+00:03:36,064 --> 00:03:41,184
+Jaipur shortage of works in such a way that among available for certificate to take the shortest job
+
+71
+00:03:41,440 --> 00:03:42,720
+Guarantee that
+
+72
+00:03:42,976 --> 00:03:46,304
+Whatever you want I am always with you start with the list of first
+
+73
+00:03:47,584 --> 00:03:48,864
+Therefore in this case
+
+74
+00:03:49,888 --> 00:03:50,400
+It is 7
+
+75
+00:03:50,912 --> 00:03:52,448
+What happens in sometime
+
+76
+00:03:53,472 --> 00:03:54,240
+Heroine
+
+77
+00:03:54,496 --> 00:03:58,336
+Shortest job first will also fall fall victim to conversate Ameen
+
+78
+00:03:58,848 --> 00:04:01,408
+Not mention
+
+79
+00:04:03,456 --> 00:04:08,064
+The longest process between the process with the highest bus time watches bus time
+
+80
+00:04:08,576 --> 00:04:11,904
+Computer
+
+81
+00:04:12,672 --> 00:04:16,768
+Yes you are going for this one right there for shortest job first is also
+
+82
+00:04:17,024 --> 00:04:17,791
+Is it team of
+
+83
+00:04:19,839 --> 00:04:21,631
+Save this example
+
+84
+00:04:23,679 --> 00:04:28,543
+I think you understood this forget finish it off then I'll show you what is a problem with this is there
+
+85
+00:04:29,055 --> 00:04:31,615
+Shortest job first and then we can continue the next America
+
+86
+00:04:38,783 --> 00:04:41,599
+Write this page
+
+87
+00:04:41,855 --> 00:04:44,671
+What is the data structure which supports is algorithm
+
+88
+00:04:45,183 --> 00:04:45,951
+Got it
+
+89
+00:04:46,463 --> 00:04:49,279
+Among all the available processes
+
+90
+00:04:49,791 --> 00:04:51,071
+I might have to pick the
+
+91
+00:04:51,327 --> 00:04:54,143
+List one which means the one with the least bus time
+
+92
+00:04:54,399 --> 00:04:57,471
+For the min heap is suitable data structure for this
+
+93
+00:04:59,775 --> 00:05:01,055
+You can find the minimum
+
+94
+00:05:01,311 --> 00:05:05,151
+Delete delete delete it unit against basic advice
+
+95
+00:05:06,687 --> 00:05:09,759
+Tarzan
+
+96
+00:05:10,015 --> 00:05:14,111
+Maintain maintain the Bean property based on the bus stand
+
+97
+00:05:14,367 --> 00:05:16,927
+Deccan always root is going to the process with the
+
+98
+00:05:17,183 --> 00:05:18,207
+Nice bus time
+
+99
+00:05:18,463 --> 00:05:19,999
+And you are always going to remove it
+
+100
+00:05:20,767 --> 00:05:21,791
+Schedule
+
+101
+00:05:22,303 --> 00:05:23,327
+And so it out
+
+102
+00:05:24,095 --> 00:05:27,423
+What is the min heap is the best best data structure
+
+103
+00:05:27,679 --> 00:05:29,215
+This one
+
+104
+00:05:29,471 --> 00:05:29,983
+Every
+
+105
+00:05:32,287 --> 00:05:36,127
+One process will be added exactly once and exactly once
+
+106
+00:05:36,383 --> 00:05:39,711
+Therefore for every forces edition in one division
+
+107
+00:05:39,967 --> 00:05:43,295
+Condition is going to take login time adding element in the min heap
+
+108
+00:05:43,551 --> 00:05:45,599
+Admission is going to take login time right
+
+109
+00:05:45,855 --> 00:05:49,951
+Then into 2 interlocking therefore and login is the time complexity for this
+
+110
+00:05:52,255 --> 00:05:55,583
+Hi please refer to the algorithm in high point and come back and watch it
+
+111
+00:05:55,839 --> 00:05:59,679
+You didn't understand what I am saying you please go to algorithms what you can come back
+
+112
+00:06:04,543 --> 00:06:06,079
+Sexy about the complete and time
+
+113
+00:06:07,615 --> 00:06:08,639
+When did 1 complete
+
+114
+00:06:09,407 --> 00:06:10,943
+P1 completed at 8:00
+
+115
+00:06:12,223 --> 00:06:14,527
+And P2 completed 16
+
+116
+00:06:15,295 --> 00:06:17,087
+Petri completed at 9:00
+
+117
+00:06:17,855 --> 00:06:19,647
+P4 completed at 11:00
+
+118
+00:06:20,415 --> 00:06:22,207
+FIFA completed 24
+
+119
+00:06:22,975 --> 00:06:25,279
+After that we can find on the turnaround time
+
+120
+00:06:25,791 --> 00:06:27,071
+What is the timer on time
+
+121
+00:06:27,583 --> 00:06:29,375
+I told you that transfer on time is
+
+122
+00:06:29,631 --> 00:06:32,447
+Completion time - arrival time difference of these two
+
+123
+00:06:33,215 --> 00:06:33,983
+Then what is it
+
+124
+00:06:34,239 --> 00:06:35,007
+7 year
+
+125
+00:06:35,775 --> 00:06:37,055
+14 year
+
+126
+00:06:38,079 --> 00:06:39,359
+And it is 6 year
+
+127
+00:06:39,871 --> 00:06:40,639
+Editors
+
+128
+00:06:40,895 --> 00:06:41,663
+2nd year
+
+129
+00:06:43,455 --> 00:06:44,735
+And it is the
+
+130
+00:06:44,991 --> 00:06:45,503
+19 year
+
+131
+00:06:47,039 --> 00:06:48,063
+Is it on time
+
+132
+00:06:48,319 --> 00:06:51,135
+Xx
+
+133
+00:06:51,391 --> 00:06:56,255
+So what is waiting time I told you that waiting time is turnaround time - bus time
+
+134
+00:06:56,511 --> 00:07:00,095
+You can do all this very easily with this simple trick will think
+
+135
+00:07:01,119 --> 00:07:03,679
+I am doing it you can do it do it yourself
+
+136
+00:07:03,935 --> 00:07:05,727
+Not able to adjust
+
+137
+00:07:06,751 --> 00:07:08,543
+14 - 59
+
+138
+00:07:09,567 --> 00:07:10,847
+My son is 5
+
+139
+00:07:18,015 --> 00:07:18,783
+NDTV Lagan
+
+140
+00:07:19,039 --> 00:07:20,063
+Nothing like this
+
+141
+00:07:20,831 --> 00:07:24,415
+What is the average turnaround time and what is the average waiting time
+
+142
+00:07:25,439 --> 00:07:28,255
+So here also should be careful
+
+143
+00:07:28,511 --> 00:07:34,399
+That when you are standing at any point just see what are the process available don't directly go and pick up the Lost no
+
+144
+00:07:36,191 --> 00:07:37,983
+Bus stand
+
+145
+00:07:38,495 --> 00:07:40,287
+Also examples
+
+146
+00:07:41,311 --> 00:07:42,079
+This also
+
+147
+00:07:42,847 --> 00:07:43,615
+Manilal standard
